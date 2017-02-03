@@ -1,4 +1,0 @@
----
-path: "/companies/"
-title: "Companies"
----
