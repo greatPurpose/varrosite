@@ -1,4 +1,0 @@
----
-path: "/asfasf/"
-title: "asfdasdf"
----
